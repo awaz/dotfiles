@@ -72,13 +72,3 @@ bindkey -e
 
 # 重複パスを登録しない
 typeset -U path cdpath fpath manpath
-
-# ocaml opam
-. /Users/ytakahs/.opam/opam-init/init.zsh > /dev/null 2> /dev/null || true
-
-
-
-
-
-
-
