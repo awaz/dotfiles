@@ -1,5 +1,0 @@
-;; 矩形選択を便利にする cua-mode
-(cua-mode t)
-;; 独自キーバインドを利用しない
-(setq cua-enable-cua-keys nil)
-

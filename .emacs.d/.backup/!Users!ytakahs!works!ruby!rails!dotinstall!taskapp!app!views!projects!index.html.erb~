@@ -1,7 +1,0 @@
-<h1>Projects</h1>
-
-<ul>
-  <% @projects.each do |project| %>
-    <li>#{prject}</li>
-  <% end %>
-</ul>
