@@ -1,0 +1,4 @@
+;; anzu.el ¤ÎÀßÄê
+(require 'anzu)
+
+(global-anzu-mode +1)

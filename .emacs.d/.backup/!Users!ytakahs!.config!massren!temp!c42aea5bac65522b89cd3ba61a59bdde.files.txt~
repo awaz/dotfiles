@@ -1,0 +1,99 @@
+// Please change the filenames that need to be renamed and save the file. Lines
+// that are not changed will be ignored by massren (no file will be renamed), so
+// will empty lines or lines beginning with "//".
+// 
+// Please do not swap the order of lines as this is what is used to match the
+// original filenames to the new ones. Also do not delete lines as the rename
+// operation will be cancelled due to a mismatch between the number of filenames
+// before and after saving the file. You may test the effect of the rename
+// operation using the --dry-run parameter.
+// 
+// Caveats: massren expects filenames to be reasonably sane. Filenames that
+// include newlines or non-printable characters for example will probably not
+// work.
+
+.Box Sync
+.CFUserTextEncoding
+.DS_Store
+.Epubor
+.FontForge
+.Trash
+.Xauthority
+.adobe
+.atom
+.bash_history
+.basic.ini
+.bundler
+.bzr.log
+.cabal
+.cache
+.coffee_history
+.config
+.cups
+.dbshell
+.distlib
+.dropbox
+.dvdcss
+.emacs.d
+.emacs.d.old
+.gem
+.ghc
+.gitconfig
+.gitignore
+.gitk
+.gosh_history
+.grunt-init
+.idlerc
+.lightpaper
+.local
+.mongorc.js
+.mysql_history
+.node-gyp
+.nodebrew
+.npm
+.ocamlinit
+.ocp
+.omake
+.opam
+.pip
+.pry_history
+.python-version
+.rbenv
+.recentf
+.rnd
+.sh_history
+.sqlite_history
+.ssh
+.subversion
+.termtter
+.tmp.bmp
+.tmux.conf
+.utop-history
+.vim
+.viminfo
+.virtualenvs
+.zcompdump
+.zshrc
+Applications
+Box Sync
+Desktop
+Documents
+Downloads
+Dropbox
+GoogleDrive
+Library
+MithrilSoftware
+Movies
+Music
+Pictures
+Projects
+Public
+Tubulator Downloads
+VirtualBox VMs
+Xamarin
+a.sh
+bundle-test
+myscript
+tmp
+works
+zsh
